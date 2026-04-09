@@ -1,30 +1,35 @@
 ## 👨‍💻 Sobre mim
 Sou **Gabriel Jardim**, Analista de Negócios na Trier Sistemas, com mais de 8 anos de experiência em implantação e integração de sistemas ERP e plataformas comerciais.
 
-Atuo conectando **pessoas, processos e tecnologia**, transformando necessidades em soluções que geram impacto real no negócio.
+Atuo na conexão entre **negócio e tecnologia**, transformando necessidades em soluções estruturadas que geram impacto real e mensurável. Tenho como foco compreender o contexto operacional, identificar oportunidades de melhoria e traduzir demandas em entregas claras, eficientes e alinhadas aos objetivos estratégicos.
+
+---
 
 ### 💼 Especialidades
-- Integração entre ERP e sistemas comerciais  
-- Estruturação e otimização de processos  
+- Integração entre sistemas ERP e plataformas comerciais  
+- Estruturação, análise e otimização de processos  
 - Arquitetura de integração (SQL & Web Services)  
 - Gestão de projetos de implantação ponta a ponta  
-- Treinamento e capacitação de equipes  
+- Tradução de requisitos de negócio em soluções técnicas  
+- Treinamento e capacitação de usuários  
 
 ---
 
 ## 🎯 Objetivo deste repositório
-- Consolidar conhecimentos em desenvolvimento back-end com Python  
-- Evoluir tecnicamente para construção de APIs e serviços  
+Este repositório representa minha evolução técnica no desenvolvimento back-end, com foco em ampliar minha capacidade de construir soluções completas.
+
+- Evoluir no desenvolvimento com Python  
+- Construir APIs e serviços escaláveis  
 - Integrar conhecimento de negócio com desenvolvimento  
-- Criar base para projetos reais e portfólio técnico  
+- Criar soluções aplicáveis ao contexto real de ERP e integrações  
+- Consolidar um portfólio técnico consistente  
 
 ---
 
-## 🐍 Tecnologias e conhecimentos
-- Python (em evolução)   
-- Lógica de programação  
-- Estruturas de dados  
-- APIs REST (em evolução)  
-- Integrações com sistemas  
-- SQL  
-- Web Services 
+## 🧩 Integrações, Dados e Tecnologias
+Atuação orientada à construção e integração de soluções:
+
+- **Linguagens & Lógica:** Python (em evolução), Lógica de Programação  
+- **Back-end & APIs:** APIs REST, Integração entre sistemas  
+- **Dados:** SQL, Modelagem e manipulação de dados  
+- **Integração:** Web Services, Arquitetura de integração  
