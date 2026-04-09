@@ -29,7 +29,10 @@ Este repositório representa minha evolução técnica no desenvolvimento back-e
 ## 🧩 Integrações, Dados e Tecnologias
 Atuação orientada à construção e integração de soluções:
 
-- **Linguagens & Lógica:** Python (em evolução), Lógica de Programação  
-- **Back-end & APIs:** APIs REST, Integração entre sistemas  
-- **Dados:** SQL, Modelagem e manipulação de dados  
-- **Integração:** Web Services, Arquitetura de integração  
+- Python (em evolução)
+- Lógica de programação
+- Estruturas de dados
+- APIs REST (em evolução)
+- Integrações com sistemas
+- SQL
+- Web Services  
