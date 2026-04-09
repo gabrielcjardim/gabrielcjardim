@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👨‍💻 Sobre mim
+Sou **Gabriel Jardim**, Analista de Negócios na Trier Sistemas, com mais de 8 anos de experiência em implantação e integração de sistemas ERP e plataformas comerciais.
 
-<!--
-**gabrielcjardim/gabrielcjardim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo conectando **pessoas, processos e tecnologia**, transformando necessidades em soluções que geram impacto real no negócio.
 
-Here are some ideas to get you started:
+### 💼 Especialidades
+- Integração entre ERP e sistemas comerciais  
+- Estruturação e otimização de processos  
+- Arquitetura de integração (SQL & Web Services)  
+- Gestão de projetos de implantação ponta a ponta  
+- Treinamento e capacitação de equipes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Objetivo deste repositório
+- Consolidar conhecimentos em desenvolvimento back-end com Python  
+- Evoluir tecnicamente para construção de APIs e serviços  
+- Integrar conhecimento de negócio com desenvolvimento  
+- Criar base para projetos reais e portfólio técnico  
+
+---
+
+## 🐍 Tecnologias e conhecimentos
+- Python (em evolução)   
+- Lógica de programação  
+- Estruturas de dados  
+- APIs REST (em evolução)  
+- Integrações com sistemas  
+- SQL  
+- Web Services 
