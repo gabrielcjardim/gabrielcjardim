@@ -47,14 +47,17 @@ Atuação orientada à construção e integração de soluções:
 
 ## 🛠️ Em evolução
 
-Atualmente estou desenvolvendo projetos práticos com foco em consolidar minha evolução técnica em back-end e integrações, aplicando conceitos diretamente em cenários reais de negócio.
+Expandindo minha atuação para o desenvolvimento back-end e integrações, aplicando conceitos técnicos em conjunto com minha experiência prática em sistemas e processos de negócio.
 
-Principais frentes de estudo e construção:
-
+**Evolução técnica:**
 - Desenvolvimento de APIs REST com Python  
 - Estruturação de integrações entre sistemas  
-- Modelagem de dados aplicada a cenários reais de ERP  
-- Automação de processos e rotinas operacionais  
+- Modelagem de dados aplicada a contextos de ERP  
+
+**Base prática:**
+- Experiência real com integrações entre sistemas  
+- Atuação em processos de negócio e operações  
+- Participação em projetos de implantação e evolução de sistemas  
 
 ---
 
