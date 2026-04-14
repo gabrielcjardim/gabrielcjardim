@@ -8,7 +8,7 @@ Atuo na conexão entre **negócio e tecnologia**, transformando necessidades em 
 ### 💼 Especialidades
 - Integração entre sistemas ERP e plataformas comerciais  
 - Estruturação, análise e otimização de processos  
-- Arquitetura de integração (SQL & Web Services)  
+- Arquitetura de integração e modelagem de dados  
 - Gestão de projetos de implantação ponta a ponta  
 - Tradução de requisitos de negócio em soluções técnicas  
 - Treinamento e capacitação de usuários  
@@ -19,22 +19,46 @@ Atuo na conexão entre **negócio e tecnologia**, transformando necessidades em 
 Este repositório representa minha evolução técnica no desenvolvimento back-end, com foco em ampliar minha capacidade de construir soluções completas.
 
 - Evoluir no desenvolvimento com Python  
-- Construir APIs e serviços escaláveis  
+- Construir APIs e serviços escaláveis orientados a integrações    
 - Integrar conhecimento de negócio com desenvolvimento  
 - Criar soluções aplicáveis ao contexto real de ERP e integrações  
 - Consolidar um portfólio técnico consistente  
 
 ---
 
-## 🧩 Integrações, Dados e Tecnologias
+## 🧩 Stack Técnica e Arquitetura de Integração
 Atuação orientada à construção e integração de soluções:
 
+### 🚀 Tecnologias
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+### 🔗 Integração e Arquitetura
+![APIs REST](https://img.shields.io/badge/-APIs%20REST-2196F3?style=flat-square&logo=fastapi&logoColor=white)
+![SOAP / Web Services](https://img.shields.io/badge/-SOAP%20%2F%20Web%20Services-795548?style=flat-square)
+![Integrações](https://img.shields.io/badge/-Integrações-9C27B0?style=flat-square)
+
+### 🧠 Fundamentos
 ![Lógica de Programação](https://img.shields.io/badge/-Lógica%20de%20Programação-4CAF50?style=flat-square)
 ![Estruturas de Dados](https://img.shields.io/badge/-Estruturas%20de%20Dados-FF9800?style=flat-square)
-![APIs REST](https://img.shields.io/badge/-APIs%20REST-2196F3?style=flat-square)
-![Integrações](https://img.shields.io/badge/-Integrações-9C27B0?style=flat-square)
-![Web Services](https://img.shields.io/badge/-Web%20Services-795548?style=flat-square)
 
+---
+
+## 🛠️ Em evolução
+
+Atualmente estou desenvolvendo projetos práticos com foco em consolidar minha evolução técnica em back-end e integrações, aplicando conceitos diretamente em cenários reais de negócio.
+
+Principais frentes de estudo e construção:
+
+- Desenvolvimento de APIs REST com Python  
+- Estruturação de integrações entre sistemas  
+- Modelagem de dados aplicada a cenários reais de ERP  
+- Automação de processos e rotinas operacionais  
+
+---
+
+## 🤝 Conexão
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-jardim-6b1226a/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5548996516928)
