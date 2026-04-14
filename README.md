@@ -29,10 +29,12 @@ Este repositório representa minha evolução técnica no desenvolvimento back-e
 ## 🧩 Integrações, Dados e Tecnologias
 Atuação orientada à construção e integração de soluções:
 
-- Python (em evolução)
-- Lógica de programação
-- Estruturas de dados
-- APIs REST (em evolução)
-- Integrações com sistemas
-- SQL
-- Web Services  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Lógica de Programação](https://img.shields.io/badge/-Lógica%20de%20Programação-4CAF50?style=flat-square)
+![Estruturas de Dados](https://img.shields.io/badge/-Estruturas%20de%20Dados-FF9800?style=flat-square)
+![APIs REST](https://img.shields.io/badge/-APIs%20REST-2196F3?style=flat-square)
+![Integrações](https://img.shields.io/badge/-Integrações-9C27B0?style=flat-square)
+![Web Services](https://img.shields.io/badge/-Web%20Services-795548?style=flat-square)
+
